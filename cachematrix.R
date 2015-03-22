@@ -1,6 +1,6 @@
 ## Functions makeCacheMatrix and cacheSolve work together to
 ## preserve state inside of an R object. This allows us to 
-## cache the time-consuming computation of inverting a matix.
+## cache the time-consuming computation of inverting a matrix.
 
 ## The function makeCacheMatrix creates a special "matrix"
 ## which is really a list containing functions to:
